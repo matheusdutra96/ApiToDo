@@ -1,0 +1,39 @@
+C:\_dev\Ionic4\Fontes\API\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\_dev\Ionic4\Fontes\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\_dev\Ionic4\Fontes\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\_dev\Ionic4\Fontes\API\API\bin\Debug\netcoreapp2.0\API.dll
+C:\_dev\Ionic4\Fontes\API\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.dll
+C:\_dev\Ionic4\Fontes\API\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.csprojAssemblyReference.cache
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\Users\Matheus Dutra\Source\Repos\Curso-de-Ionic-4\API\API\obj\Debug\netcoreapp2.0\API.genruntimeconfig.cache
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.csprojAssemblyReference.cache
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.pdb
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\Matheus Dutra\Downloads\todo\API\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\Matheus Dutra\Downloads\todo\API\API\obj\Debug\netcoreapp2.0\API.genruntimeconfig.cache
